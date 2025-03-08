@@ -1,0 +1,82 @@
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.la
+*.lai
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+minrnn
+
+# CUDA/HIP specific
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.fatbin.c
+*.module_id
+*.cpp?.ii
+*.cpp.i
+*.hip
+*.hipfb
+*.cu.cpp
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+.vs/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Core dumps
+core
+core.*
+
+# Temporary files
+*.log
+*.tmp 
